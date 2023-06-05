@@ -1,0 +1,18 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "Dinviz",
+  "license": "ISC",
+  "devDependencies": {
+    "concat": "^1.0.3",
+    "node-sass": "^9.0.0"
+  }
+}
